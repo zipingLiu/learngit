@@ -9,7 +9,7 @@
 
 
 
-## 使用笔记
+## markdown使用笔记
 1、学习git的使用
 2、在visual Studio Code 编辑器下使用git
 
